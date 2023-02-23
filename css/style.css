@@ -1,0 +1,208 @@
+.head-1 {
+    position: sticky;
+}
+.div-1 {
+    display: flex;
+}
+.logo {
+    width: 133px;
+    height: 31px;
+    margin: 25px 0 25px 95px;
+}
+.ul-1 {
+    display: flex;
+    width: 499px;
+    height: 21px;
+    margin: 30px 98px 30px 535px;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+a {
+    font-family: 'Raleway', sans-serif;
+}
+.Banner {
+    position: absolute;
+    width: 1360px;
+    height: 650px;
+}
+.block-1 {
+    position: absolute;
+    width: 586px;
+    height: 146px;
+    bottom: 251px;
+    left: 95px;
+}
+.Discover {
+    width: 586px;
+    height: 88px;
+    font-size: 78px;
+    color: #FFFFFF;
+    top: 275px;
+    bottom: 34px;
+}
+.TRAVEL {
+    width: 286px;
+    height: 24px;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 110px;
+    white-space: nowrap;
+}
+.div-2 {
+    width: 1172px;
+    height: 682px;
+    position: relative;
+    top: 724px;
+    bottom: 93px;
+    left: 71px;
+    right: 118px;
+    display: flex;
+}
+.div-3 {
+    width: 242px;
+    height: 242px;
+    margin-right: 59px;
+}
+.discover-text {
+    width: 73px;
+    height: 21px;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.service-1 {
+    width: 192px;
+    height: 35px;
+    font-size: 26px;
+    color: #1A1A1B;
+    margin-top: 2px;
+    margin-bottom: 39px;
+}
+.text {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.div-4 {
+    width: 871px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.div-5 {
+    width: 269px;
+    height: 327px;
+}
+.image {
+    width: 269px;
+    height: 181px;
+}
+.image-1 {
+    position: absolute;
+}
+.flight-booking {
+    width: 140px;
+    height: 24px;
+    font-size: 18px;
+    color: #1A1A1B;
+    position: relative;
+    top: 18px;
+    left: 35px;
+    white-space: nowrap;
+}
+.text-1 {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+    position: relative;
+    margin-top: 233px;
+}
+.hotel-booking {
+    width: 223px;
+    height: 24px;
+    font-size: 18px;
+    color: #1A1A1B;
+    white-space: nowrap;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.text-2 {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.image-3 {
+    position: absolute;
+}
+.family-trip-planner {
+    width: 223px;
+    height: 24px;
+    font-size: 18px;
+    color: #1A1A1B;
+    position: relative;
+    top: 18px;
+    left: 28px;
+}
+.text-3 {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+    position: relative;
+    margin-top: 233px;
+}
+.image-4 {
+    position: absolute;
+}
+.cruise-tour {
+    width: 108px;
+    height: 24px;
+    font-size: 18px;
+    color: #1A1A1B;
+    position: relative;
+    top: 19px;
+    left: 32px;
+    white-space: nowrap;
+}
+.text-4 {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+    position: relative;
+    margin-top: 233px;
+}
+.fire-camp {
+    width: 87px;
+    height: 24px;
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    white-space: nowrap;
+}
+.text-5 {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.corporate-holidays {
+    width: 185px;
+    height: 24px;
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    white-space: nowrap;
+}
+.text-6 {
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    color: #8D8D8D;
+}
